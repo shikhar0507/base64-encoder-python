@@ -1,5 +1,7 @@
 # image-encoder-python
 
+Encodes the file to base64,base16 or base32 format
+
 ### Installation
 Run this file directly ```python base64Encoder.py```
 or
