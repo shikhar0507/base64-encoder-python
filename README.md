@@ -3,9 +3,10 @@
 Encodes the file to base64,base16 or base32 format
 
 ### Installation
-Run this file directly ```python base64Encoder.py```
+Run this file directly ```python base64Encoder.py```  
 or
-Make it as an executable for linux and unix systems
+Make it as an executable for linux and unix systems  
+
 ```chmod +x base64Encoder.py ```
 
 ### How to use
