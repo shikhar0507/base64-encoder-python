@@ -7,7 +7,7 @@ Run this file directly ```python base64Encoder.py```
 or
 Make it as an executable for linux and unix systems  
 
-```chmod +x base64Encoder.py ```
+```chmod +x base64Encoder.py ``` & ```cp base64Encoder.py /usr/local/bin```
 
 ### How to use
 1. **`--input`** : Input file location
