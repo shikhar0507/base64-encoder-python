@@ -1,4 +1,4 @@
-# image-encoder-python
+# base64-encoder-python
 
 Encodes the file to base64,base16 or base32 format
 
