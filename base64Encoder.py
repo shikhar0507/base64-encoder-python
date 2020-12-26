@@ -8,7 +8,7 @@ import webbrowser;
 parser = argparse.ArgumentParser(description="Process encoding")
 parser.add_argument("--input",type=str,help="Input file location")
 parser.add_argument("--output",type=str,help="Ouput file name, defaults to creating a file called encoded.txt",default="encoded.txt")
-parser.add_argument("--encoder",type=str,help="Encoder format, base16,base32,base64 defaults to base64",default="base64")
+parser.add_argument("--encoder",type=str,help="Encoder format, base16,base32,base64. Defaults to base64",default="base64")
 parser.add_argument("--open",help="If input file is an image file , it opens the encoded base64 content in browser. Supported image types are png, jpg , jpeg, webp, gif,tiff,bmp",default=False,type=bool)
 
 args = parser.parse_args()
